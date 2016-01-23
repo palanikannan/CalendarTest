@@ -10,7 +10,7 @@ _italic**bold**italic_<br>
    * tst sub2
 1. tst one
 2. test two
-    *test sub
-    *test sub2
+    * test sub
+    * test sub2
 
 ![Alt Text](http://www.planwallpaper.com/static/images/9-credit-1.jpg)
