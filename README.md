@@ -17,4 +17,12 @@ _italic**bold**italic_<br>
 [Click Here to Visit JavaFirst.in](http://javafirst.in)<br>
 > test black coats<br>
 > two<br>
-'<tst only>'
+'<tst only>'<br>
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
