@@ -26,3 +26,4 @@ function fancyAlert(arg) {
   }
 }
 ```
+```this is hilited area```
