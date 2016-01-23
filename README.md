@@ -30,5 +30,5 @@ function fancyAlert(arg) {
 
 **table tst**<br>
 colum one1 | colum two2
------------|-----------
+----------- | -----------
 tst       |    test tow
