@@ -33,3 +33,7 @@ function fancyAlert(arg) {
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
