@@ -35,4 +35,4 @@ function fancyAlert(arg) {
 - [ ] this is an incomplete item
 
 #1
-"@test"
+~~this~~
